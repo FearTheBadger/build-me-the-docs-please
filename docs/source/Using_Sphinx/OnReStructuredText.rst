@@ -749,7 +749,7 @@ A ``csv-table`` is created from comma-separated values
 (either in the document or in an external file)::
 
    .. csv-table:: User list
-      :header:"First name","Last name"
+      :header: "First name","Last name"
       
       "John","Doe"
       "Jane","Dove"
